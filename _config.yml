@@ -1,7 +1,7 @@
 name: Moose Dept.
 favicon: null
-layout_spectrum: 0.7140032025054097
-typography_spectrum: 0.40009409468621016
+layout_spectrum: 0.64877
+typography_spectrum: 0.73255
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7370873626787215
-  lightness: 0.5868478266056627
-  saturation: 0.887742263963446
-  rhythmicContrast: 0.1332762986421585
+    - '#d6d7c7'
+    - '#e9f6ff'
+    - '#9a8862'
+    - '#453929'
+    - '#814d1d'
+  brandStrength: 0.5625
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
