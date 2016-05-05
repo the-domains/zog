@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Moose Dept.]]></title>
         <description><![CDATA[Moose Dept.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:13:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 18:30:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Een nieuwe website.</p>]]></description>
-            <link>undefinedeen-nieuwe-website/index.html</link>
+            <link>https://thegrid.ai/zog/een-nieuwe-website/index.html</link>
             <guid isPermaLink="false">d75294f0-3911-423e-a2c1-e6a649e58bb8</guid>
-            <pubDate>Thu, 05 May 2016 18:12:59 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 18:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
