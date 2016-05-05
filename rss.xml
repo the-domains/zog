@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Moose Dept.]]></title>
+        <description><![CDATA[Moose Dept.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 18:13:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Een nieuwe website.</p>]]></description>
+            <link>undefinedeen-nieuwe-website/index.html</link>
+            <guid isPermaLink="false">d75294f0-3911-423e-a2c1-e6a649e58bb8</guid>
+            <pubDate>Thu, 05 May 2016 18:12:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
